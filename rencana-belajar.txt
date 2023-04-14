@@ -6,3 +6,4 @@ Rencana Belajar
 - HTML
 - PHP Framework
 - Photoshop
+- After Effect
