@@ -7,3 +7,4 @@ Rencana Belajar
 - PHP Framework
 - Photoshop
 - After Effect
+- Design Graphic
