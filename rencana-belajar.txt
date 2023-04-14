@@ -5,3 +5,4 @@ Rencana Belajar
 - Python
 - HTML
 - PHP Framework
+- Photoshop
