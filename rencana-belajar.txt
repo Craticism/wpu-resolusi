@@ -1,0 +1,7 @@
+Rencana Belajar
+
+- Javascript
+- C++
+- Python
+- HTML
+- PHP Framework
